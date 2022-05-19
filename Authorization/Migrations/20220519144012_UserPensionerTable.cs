@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace Authorization.Migrations
 {
-    public partial class InitialSetup : Migration
+    public partial class UserPensionerTable : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
